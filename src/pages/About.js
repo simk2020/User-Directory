@@ -7,10 +7,7 @@ import Col from "../components/Col";
 function About() {
   return (
     <div>
-      <Hero backgroundImage="https://p12cdn4static.sharpschool.com/UserFiles/Servers/Server_3008318/Image/Directory/directory.png">
-        {/* <h1>Name</h1>
-        <h2>Employees</h2> */}
-      </Hero>
+      <Hero backgroundImage="https://p12cdn4static.sharpschool.com/UserFiles/Servers/Server_3008318/Image/Directory/directory.png"></Hero>
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">

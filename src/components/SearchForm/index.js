@@ -15,7 +15,7 @@ function SearchForm(props) {
           type="text"
           className="form-control"
           placeholder="First name, Last name"
-          id="breed"
+          id="users"
         />
         <datalist id="breeds">
           {props.breeds.map(breed => (
