@@ -1,5 +1,10 @@
 # Unit 19 React Homework: Employee Directory
 
+
+https://simk2020.github.io/User-Directory/
+
+
+https://github.com/simk2020/User-Directory.git
 ## Overview
 
 For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
@@ -13,7 +18,7 @@ For this assignment, you'll create a employee directory with React. This assignm
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 ## Acceptance Criteria
-
+ 
 Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
 
 The user should be able to:

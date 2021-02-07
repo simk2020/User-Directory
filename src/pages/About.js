@@ -20,7 +20,7 @@ function About() {
         <Row>
           <Col size="md-12">
             <p>
-              Lnon sem facilisis, tempus tortor sit amet,
+              Please click on search to be able to see the complete employee list as well as search by name. 
             </p>
           </Col>
         </Row>
